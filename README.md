@@ -1,5 +1,4 @@
 # DLytica-Bootcamp-BigData-AI
-# DLytica - Bootcamp on Big Data & AI 🚀
 
 This repository contains my participation in the **2-Day Online Bootcamp on Big Data & AI** organized by **DLytica - Data Analytics and AI**, supported by **Sunway College Kathmandu, Khwopa College of Engineering, IIMS College, and CSIT Association of Nepal**.
 
